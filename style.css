@@ -116,3 +116,26 @@ nav ul li a:hover{
     background:#d4af37;
     color:black;
 }
+/* ===== ABOUT SECTION ===== */
+
+#about{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:60px;
+    padding:100px 8%;
+    background:#111;
+}
+
+#about h2{
+    color:#d4af37;
+    font-size:38px;
+    margin-bottom:20px;
+}
+
+#about p{
+    color:#ddd;
+    line-height:1.8;
+    font-size:18px;
+    margin-bottom:20px;
+}
